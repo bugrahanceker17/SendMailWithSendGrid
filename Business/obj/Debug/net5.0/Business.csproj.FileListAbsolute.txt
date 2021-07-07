@@ -1,0 +1,12 @@
+C:\Users\bugra\RiderProjects\SendMailWithSendGridDemo\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\bugra\RiderProjects\SendMailWithSendGridDemo\Business\bin\Debug\net5.0\Business.dll
+C:\Users\bugra\RiderProjects\SendMailWithSendGridDemo\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\bugra\RiderProjects\SendMailWithSendGridDemo\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\bugra\RiderProjects\SendMailWithSendGridDemo\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\bugra\RiderProjects\SendMailWithSendGridDemo\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bugra\RiderProjects\SendMailWithSendGridDemo\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\bugra\RiderProjects\SendMailWithSendGridDemo\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\bugra\RiderProjects\SendMailWithSendGridDemo\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\bugra\RiderProjects\SendMailWithSendGridDemo\Business\obj\Debug\net5.0\Business.dll
+C:\Users\bugra\RiderProjects\SendMailWithSendGridDemo\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\bugra\RiderProjects\SendMailWithSendGridDemo\Business\obj\Debug\net5.0\Business.pdb
